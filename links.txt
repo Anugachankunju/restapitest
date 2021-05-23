@@ -1,0 +1,7 @@
+Post:http://localhost:8000/api/register
+post:http://localhost:8000/api/login
+get:http://localhost:8000/api/products
+post:http://localhost:8000/api/products
+get:http://localhost:8000/api/products/{id}  (show all)
+put:http://localhost:8000/api/products/{id}
+delete:http://localhost:8000/api/products/{id}
